@@ -1,4 +1,5 @@
 # Karen Tonoyan Benchmark (KTB-300)
+<img width="1408" height="1408" alt="grok-5fd631ec-21e9-4d85-abd3-c64262bd1743 (1)" src="https://github.com/user-attachments/assets/971e930d-efd3-44cc-b25f-bc962354254b" />
 
 KTB-300 is a benchmark pack with 300 hard questions for evaluating large language models on reasoning quality, uncertainty handling, hallucination resistance, safety, planning, ambiguity handling, and consistency.
 
